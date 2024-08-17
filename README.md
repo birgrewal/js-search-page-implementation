@@ -19,10 +19,3 @@ This repository showcases a simple and efficient search page built using vanilla
 
 - **HTML/CSS:** For structuring and styling the search interface.
 - **JavaScript:** Implements the core search logic and dynamic content updates.
-
-## Getting Started
-
-To use this search page, simply clone the repository and include the relevant files in your project. The code is well-documented, making it easy to modify and extend for your specific needs.
-
-```bash
-git clone https://github.com/yourusername/javascript-search-page.git
